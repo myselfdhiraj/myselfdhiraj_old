@@ -7,6 +7,7 @@
 ## 🚀 About Me
 *I'm 19-year-old aspiring AI engineer. **Deeply passionate about AI development**, I'm currently focused on mastering Python and machine learning. **My goal is to create intelligent systems that solve complex problems**. With a relentless pursuit of knowledge, I aim to shape the future of technology through AI innovation.*
 
+<img align="right" width="300" height="320" src="https://i.ibb.co/Tt5GbvH/upload-self.jpg">
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dhiraj-arya.super.site/)
@@ -34,5 +35,5 @@
 
 
 
-![Logo](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1417f2f9-fd89-4088-acf7-1c0935871efd/upload_self/w=1920,quality=80)
+
 
