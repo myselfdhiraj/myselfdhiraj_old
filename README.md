@@ -1,11 +1,11 @@
 
 # Hi, I'm Dhiraj Arya! 👋
 
-#### **Python Devloper and Learner**
+#### ** Devloper and Learner**
 
 
 ## 🚀 About Me
-*I'm 19-year-old aspiring AI engineer. **Deeply passionate about AI development**, I'm currently focused on mastering Python and machine learning. **My goal is to create intelligent systems that solve complex problems**. With a relentless pursuit of knowledge, I aim to shape the future of technology through AI innovation.*
+*I'm 19-year-old aspiring AI engineer. **Deeply passionate about AI development**, I'm currently focused on mastering Full Stack .*
 
 <img align="right" width="300" height="320" src="https://i.ibb.co/Tt5GbvH/upload-self.jpg">
 
@@ -16,7 +16,7 @@
 
 
 
-👩‍💻 I'm currently working on Python project.
+👩‍💻 I'm currently working on JS project.
 
 🧠 I'm currently learning ML.
 
@@ -29,7 +29,7 @@
 
 ## 🛠 Skills
 - HTML and CSS
--  JavaScript
+- JavaScript
 - Python
 - Git and Github
 
