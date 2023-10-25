@@ -1,5 +1,5 @@
-
-# Hi, I'm Dhiraj Arya! 👋
+<img src="https://raw.githubusercontent.com/myselfdhiraj/myselfdhiraj/github_bg.png" width="100%"/>
+# Hi, I'm Dhiraj 
 
 #### ** Devloper and Learner**
 
